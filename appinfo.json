@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "None",
+    "longName": "SendAccel",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "SendAccel",
+    "uuid": "009b83e1-01c2-4b6f-bb9a-a0fba2c25c03",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
